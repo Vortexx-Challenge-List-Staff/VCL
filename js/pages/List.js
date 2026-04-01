@@ -51,8 +51,12 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Handcam</div>
+                            <p>{{ level.handcam || 'Not Required' }}</p>
+                        </li>
+                        <li>
+                            <div class="type-title-sm">Clicks</div>
+                            <p>{{ level.clicks || 'Required' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
