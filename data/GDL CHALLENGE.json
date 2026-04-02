@@ -6,5 +6,18 @@
     "verifier": "WedyIshereYT",
     "verification": "https://youtu.be/j4VNodvygEg",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "VortexxGMD",
+            "link": "https://youtu.be/a8vfKF2Aaxc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "LaserStr",
+            "link": "https://youtu.be/oWGielhcXbI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

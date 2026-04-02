@@ -1,10 +1,23 @@
 {
     "id": 114802621,
     "name": "Ship Challenge II",
-    "author": "WedyIshereYT",
+    "author": "VortexxGMD",
     "creators": [],
     "verifier": "VortexxGMD",
     "verification": "https://youtu.be/PVJKtslNEdg",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "LaserStr",
+            "link": "https://youtu.be/o6VfASE7Cek",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WedyIsHereYT",
+            "link": "https://youtu.be/iYM272tR4_s",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
