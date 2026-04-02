@@ -6,5 +6,12 @@
     "verifier": "VortexxGMD",
     "verification": "https://youtu.be/OTOTG9GcPAU",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+                {
+            "user": "LaserStr",
+            "link": "https://youtu.be/LRaLG42vroY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
