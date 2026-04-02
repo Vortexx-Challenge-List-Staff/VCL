@@ -1,17 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "VortexxGMD",
         "link": "https://www.youtube.com/@VortexxGMD"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "SzaszaGD",
         "link": "https://www.youtube.com/@SzaszaGD"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "VortexxGMD",
         "link": "https://www.youtube.com/@VortexxGMD"
     }
 ]
