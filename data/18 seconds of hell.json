@@ -12,6 +12,18 @@
             "link": "https://youtu.be/8XVSm1GGEOk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "MadBoy",
+            "link": "https://youtu.be/-y5fmX1ZB0c?si=8UrDca2fAIf8HRFT",
+            "percent": 100,
+            "hz": "Mobile"
+        },
+        {
+            "user": "EvenGD",
+            "link": "https://youtu.be/WJ0rO8l4duM?si=nw2zgWa-jvGkpjAr",
+            "percent": 100,
+            "hz": "Mobile"
         }
     ]
 }
