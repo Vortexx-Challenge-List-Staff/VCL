@@ -23,7 +23,19 @@
             "user": "Shialaxy",
             "link": "https://youtu.be/q0vZxiwYclQ",
             "percent": 100,
-            "hz": "144"
+            "hz": 144
+        },
+        {
+            "user": "PottomanGG",
+            "link": "https://youtu.be/igf70yxY59w?si=BgO_mQxorWJaCYg7",
+            "percent": 100,
+            "hz": "Mobile 60"
+        },
+        {
+            "user": "szasza",
+            "link": "https://youtu.be/VgVxc3h5aRE?is=zN0krzcrFNaYH6J_",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

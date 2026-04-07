@@ -6,5 +6,12 @@
     "verifier": "Szasza333",
     "verification": "https://youtu.be/ADPvFLUSFsE?is=VFBEdINr4Uk_8ipU",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "LaserStr",
+            "link": "https://youtu.be/vhKOGF_036U",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

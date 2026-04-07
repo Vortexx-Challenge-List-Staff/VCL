@@ -17,13 +17,19 @@
             "user": "MadBoy",
             "link": "https://youtu.be/-y5fmX1ZB0c?si=8UrDca2fAIf8HRFT",
             "percent": 100,
-            "hz": "60"
+            "hz": 60
         },
         {
             "user": "EvenGD",
-            "link": "https://youtu.be/WJ0rO8l4duM?si=nw2zgWa-jvGkpjAr",
+            "link": "https://youtu.be/LN_U3H92MuE?is=P_VtlD3lSCV1LePa",
             "percent": 100,
-            "hz": "60"
+            "hz": "Mobile 60"
+        },
+        {
+            "user": "szasza",
+            "link": "https://youtu.be/1iLg_tA20Tw?is=juAvgd66DJk7bPFL",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
