@@ -1,0 +1,17 @@
+{
+    "id": 137446400,
+    "name": "Queen Garten",
+    "author": "PottomanGG",
+    "creators": [],
+    "verifier": "PottomanGG",
+    "verification": "https://youtu.be/L3mnNmlYjr8?si=czEAfbsSpYLZ6NF4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "LaserStr",
+            "link": "https://youtu.be/wYgFeDECBZU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

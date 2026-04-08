@@ -1,0 +1,23 @@
+{
+    "id": 137435117,
+    "name": "Ufo 1",
+    "author": "PottomanGG",
+    "creators": [],
+    "verifier": "PottomanGG",
+    "verification": "https://youtu.be/RBUqejJny1E?si=4ETAJjrfYeccoaJe",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Shialaxy",
+            "link": "https://youtu.be/KDH_QrDKylo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "LaserStr",
+            "link": "https://youtu.be/jixaMRikgTY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
