@@ -36,6 +36,12 @@
             "link": "https://youtube.com/shorts/87nf7wfbNh0?si=04zTfeHGDJX-QsmE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Zodiac",
+            "link": "https://drive.google.com/file/d/1NnJmzlVCm1lEYyDcPda0iVK9ksZJP0CN/view?usp=sharing",
+            "percent": 100,
+            "hz": "Unknown"
         }
     ]
 }

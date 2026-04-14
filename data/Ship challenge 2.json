@@ -42,6 +42,18 @@
             "link": "https://youtu.be/e4lqHLeVv0I",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Zodiac",
+            "link": "https://www.youtube.com/watch?v=ayASwgnaWIs",
+            "percent": 100,
+            "hz": "Unknown"
+        },
+        {
+            "user": "facjul",
+            "link": "https://medal.tv/es/games/geometry-dash/clips/muY59ncAc_C1alIAE?invite=cr-MSxDM1EsNDg2MTYyMTI3&v=120",
+            "percent": 100,
+            "hz": "Unknown"
         }
     ]
 }

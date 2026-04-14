@@ -6,5 +6,12 @@
     "verifier": "Shialaxy",
     "verification": "https://youtu.be/DYoDQA3HQAk",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "Helios-YT-1",
+            "link": "https://youtube.com/shorts/Fr-OTxneeIk?si=1jbQpvEWDasEEUaf",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }

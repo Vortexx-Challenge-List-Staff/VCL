@@ -30,6 +30,12 @@
             "link": "https://youtu.be/cev3FJRG7_s",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Zodiac",
+            "link": "https://www.youtube.com/watch?v=XxgwvF1pwmM",
+            "percent": 100,
+            "hz": "Unknown"
         }
     ]
 }

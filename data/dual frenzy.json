@@ -7,6 +7,17 @@
     "verification": "https://youtu.be/4P-_KkvbKA4?si=hN8PY5tSxZj4ed62",
     "percentToQualify": "100",
     "records": [
-        
+        {
+            "user": "SZASZA333",
+            "link": "https://youtu.be/DPPdPu_TOsE?is=R_2kp2CtjiMN2RoD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Zodiac",
+            "link": "https://drive.google.com/file/d/1BN1BHOYx2L2R_5pV6My8aHK-SG1tLwSu/view?usp=sharing",
+            "percent": 100,
+            "hz": "Unknown"
+        }
     ]
 }

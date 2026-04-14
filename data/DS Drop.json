@@ -7,6 +7,11 @@
     "verification": "https://youtu.be/RTEU5nQnk74",
     "percentToQualify": "100",
     "records": [
-       
+        {
+            "user": "SZASZA333",
+            "link": "https://youtu.be/T7rDCWG6qp8?is=Uqj-LZEhQFRkZYvS",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

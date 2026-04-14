@@ -18,6 +18,18 @@
             "link": "https://youtube.com/shorts/z7Ew9BiEJTU?si=C7zXyG4JBqMvs9cE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Zodiac",
+            "link": "https://drive.google.com/file/d/1ux6AfOKW_BZ_FIRO_WogYLezMAcqQ8Od/view?usp=sharing",
+            "percent": 100,
+            "hz": "Unknown"
+        },
+        {
+            "user": "SZASZA333",
+            "link": "https://youtu.be/6e2dudiVSjU?is=_68LVMa6ynu5PbK9",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
