@@ -6,5 +6,12 @@
     "verifier": "Zodiac",
     "verification": "https://drive.google.com/file/d/1J2db3PU51YqBIElYCwx_8KrxIi4ZS9LP/view?usp=sharing",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "Shialaxy",
+            "link": "https://youtu.be/eNbR8lzi6d4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
