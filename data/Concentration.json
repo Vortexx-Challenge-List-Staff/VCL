@@ -6,5 +6,12 @@
     "verifier": "Shialaxy",
     "verification": "https://youtu.be/oKQJU7taX7Y",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "MadBoy",
+            "link": "https://youtu.be/vAgQgAph3P4",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 }
