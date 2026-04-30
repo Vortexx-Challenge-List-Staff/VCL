@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=VdYpUdVWlLQ",
             "percent": 100,
             "hz": "Unknown"
+        },
+        {
+            "user": "DD",
+            "link": "https://youtu.be/EjZYWK4zSy4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
